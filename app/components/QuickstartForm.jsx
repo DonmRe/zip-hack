@@ -52,7 +52,7 @@ export var QuickstartForm = React.createClass({
 
 						    <div className="input-group-button">
     							<input type="submit" className="button" value="Log in"></input>
-  							</div>	
+  							</div>
 						</form>
 					</div>
 				</div>
